@@ -1,0 +1,1 @@
+puts ['Diana', 'Edgardo', 'Zoren', 'Karen'][-1]
