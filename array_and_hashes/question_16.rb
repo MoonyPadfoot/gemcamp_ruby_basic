@@ -1,0 +1,1 @@
+puts ["a", "b", "c", "d", "e"].include? 'f'
