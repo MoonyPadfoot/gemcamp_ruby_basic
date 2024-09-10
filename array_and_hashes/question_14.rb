@@ -1,0 +1,1 @@
+puts ["red", "green", "blue"] + ["yellow", "purple", "pink"]
