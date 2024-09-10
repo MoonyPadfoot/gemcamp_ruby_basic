@@ -1,0 +1,1 @@
+puts ["USA", "Canada", "Mexico", "Germany", "France"].find_index('Mexico')
