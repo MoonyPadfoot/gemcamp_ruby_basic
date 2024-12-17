@@ -21,3 +21,5 @@ def search_insert(nums, target)
   end
 
 end
+
+puts search_insert([1, 21, 3, 5, 71], 3)
